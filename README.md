@@ -1,11 +1,13 @@
 # Projeto Calculadora
-yar
+
 <p align="center">
   <img src="https://media.giphy.com/media/2h5e7nqgFuQmb7KrTk/giphy.gif">
 </p>
 
-Projeto com React para praticar os estudos de CSS Grid e FlexBox.
+Projeto com React para praticar os estudos de CSS Grid e FlexBox. \
 Exercício proposto pelo instrutor [Leonardo Leitão](https://www.linkedin.com/in/leonardo-leit%C3%A3o-8a5813186/?originalSubdomain=br) no curso de React, da [Cod3r](https://www.cod3r.com.br).
+
+Link do projeto: [https://yuryregis.github.io/calculadora/](https://yuryregis.github.io/calculadora/)
 
 # Getting Started with Create React App
 
