@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "Calculator";
+    src: url("../../src/fonts/Calculator.ttf");
+  }
+
+.display {
+    display: flex;
+    padding: 20px;
+    font-size: 2em;
+    overflow: hidden;
+    grid-column: span 4;
+    align-items: center;
+    justify-content: flex-end;
+    background-color: #0004;
+    font-family: "Calculator", monospace;
+}
